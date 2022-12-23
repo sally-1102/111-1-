@@ -19,6 +19,8 @@
 ![第四步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E5%9B%9B%E6%AD%A5.jpg)
 
 5.  **正規化新過濾的數據集**
+> 這步驟在做執行階段時有發生錯誤（沒有截到圖片），但再一次執行過前面的步驟以後就可以順利執行，推測是因為與上課時用的裝置不同所導致。
+> 
 ![第五步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%BA%94%E6%AD%A5.jpg)
 
 6.  **構建和訓練 LSTM 模型**
@@ -26,7 +28,8 @@
 
 7.  **取一個數據集樣本，使用 LSTM 模型進行股票價格預測**
 8.  **保存LSTM模型**
-> ![第七八步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%B8%83%E5%85%AB%E6%AD%A5.jpg)
+
+![第七八步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%B8%83%E5%85%AB%E6%AD%A5.jpg)
 
 9.  **將預測庫存成本與實際庫存成本可視化**
 ![第九步代碼](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%B9%9D%E6%AD%A5%E4%BB%A3%E7%A2%BC.jpg)
