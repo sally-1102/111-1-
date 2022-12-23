@@ -7,8 +7,10 @@
 > LSTM(長短期記憶)：一種時間循環網路系統，適用於預測、處理時間間隔／延遲非常長的事件
 >
 1.  **匯入模組及使用功能**
+![第一步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%B8%80%E6%AD%A5.jpg)
 
 2.  **上傳及讀取數據集**
+![第二步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%BA%8C%E6%AD%A5.jpg)
 
 3.  **從DataFrame分析收盤價**
 
