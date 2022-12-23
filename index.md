@@ -10,6 +10,8 @@
 ![第一步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%B8%80%E6%AD%A5.jpg)
 
 2.  **上傳及讀取數據集**
+>如圖所示，在回應系統(黃線處)時若使用全形字母會造成無法辨識的情況(紅線處)
+>
 ![第二步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%BA%8C%E6%AD%A5.jpg)
 
 3.  **從DataFrame分析收盤價**
@@ -24,6 +26,9 @@
 ![第五步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E4%BA%94%E6%AD%A5.jpg)
 
 6.  **構建和訓練 LSTM 模型**
+> 第六步同第五步一樣，剛開始時發生執行錯誤，重新跑過之後就恢復正常
+>
+![第六步錯誤](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E5%85%AD%E6%AD%A5%E9%A9%9F%E9%8C%AF%E8%AA%A4.jpg)
 ![第六步](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E7%AC%AC%E5%85%AD%E6%AD%A5.jpg)
 
 7.  **取一個數據集樣本，使用 LSTM 模型進行股票價格預測**
