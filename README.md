@@ -45,3 +45,7 @@
 
 ![](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E5%9C%96%E5%BA%AB/%E7%AC%AC%E4%B9%9D%E6%AD%A5%E4%BB%A3%E7%A2%BC.jpg)
 ![](https://github.com/sally-1102/sally-1102.github.io/blob/main/%E5%9C%96%E5%BA%AB/%E7%AC%AC%E4%B9%9D%E6%AD%A5%E7%B5%90%E6%9E%9C.jpg)
+
+#心得總結
+  在做期末報告時最難的部分並不是將上課的內容用Google Colab呈現出來,而是將過程、筆記等等的內容變成部落格的方式呈現出來
+  
