@@ -1,6 +1,7 @@
 # 111-1人工智慧期末報告-股票預測
 > 該內容僅作為111學年度第一學期,跨領域課程-人工智慧期末報告之用
 > 
+> https://colab.research.google.com/drive/1xGPAZ8siidUztJCTS7bLzyNNFChpwb8Q
 
 **使用LSTM神經網絡預測股票價格**
 > LSTM(長短期記憶):一種時間循環網路系統,適用於預測/處理時間間隔或延遲非常長的事件
